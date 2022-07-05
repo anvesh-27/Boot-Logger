@@ -19,7 +19,9 @@ Navigate to
 C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup 
 ```
 Replace User with your own User's name.
+
 Save the start.bat file in that location.
+Edit the start.bat file and the replace  ```E:\Boot_Logger```  with the complete path of your directory 
 
 You might want to check your camera port if you get an error regarding the image capture and replace it in the Boot_logger.py Line 16
 
